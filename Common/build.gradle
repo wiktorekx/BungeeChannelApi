@@ -1,0 +1,24 @@
+plugins {
+    id 'java-library'
+}
+
+dependencies {
+    api 'io.netty:netty-buffer:4.1.87.Final'
+    api 'org.panda-lang:expressible:1.3.0'
+
+    compileOnly 'org.jetbrains:annotations:16.0.2'
+    compileOnly 'org.projectlombok:lombok:1.18.24'
+    annotationProcessor 'org.projectlombok:lombok:1.18.24'
+}
+
+publishing {
+    publications {
+        maven(MavenPublication) {
+            groupId = group
+            artifactId = rootProject.name + '-' + project.name
+            version = version
+
+            from components.java
+        }
+    }
+}

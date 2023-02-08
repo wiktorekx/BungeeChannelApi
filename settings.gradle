@@ -1,0 +1,5 @@
+rootProject.name = 'BungeeChannelApi'
+include 'Bungee'
+include 'Bukkit'
+include 'Common'
+
