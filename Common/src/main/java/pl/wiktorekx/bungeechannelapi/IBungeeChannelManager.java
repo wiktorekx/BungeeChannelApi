@@ -1,8 +1,8 @@
-package pl.wiktorekx.bungechannelapi;
+package pl.wiktorekx.bungeechannelapi;
 
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
-import pl.wiktorekx.bungechannelapi.channel.IChannelConnection;
+import pl.wiktorekx.bungeechannelapi.channel.IChannelConnection;
 
 public interface IBungeeChannelManager {
     @NotNull IBungeeChannelManager registerChannelListener(@NotNull Class<?> listener);

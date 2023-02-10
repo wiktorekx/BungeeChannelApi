@@ -1,4 +1,4 @@
-package pl.wiktorekx.bungechannelapi.channel;
+package pl.wiktorekx.bungeechannelapi.channel;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;

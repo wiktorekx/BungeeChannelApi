@@ -5,8 +5,8 @@ import net.md_5.bungee.api.ProxyServer;
 import net.md_5.bungee.api.config.ServerInfo;
 import net.md_5.bungee.api.connection.ProxiedPlayer;
 import org.jetbrains.annotations.NotNull;
-import pl.wiktorekx.bungechannelapi.channel.BMessage;
-import pl.wiktorekx.bungechannelapi.channel.IChannelConnection;
+import pl.wiktorekx.bungeechannelapi.channel.BMessage;
+import pl.wiktorekx.bungeechannelapi.channel.IChannelConnection;
 
 import java.util.Objects;
 

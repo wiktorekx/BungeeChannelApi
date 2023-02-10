@@ -4,11 +4,10 @@ import lombok.RequiredArgsConstructor;
 import net.md_5.bungee.api.event.PluginMessageEvent;
 import net.md_5.bungee.api.plugin.Listener;
 import net.md_5.bungee.event.EventHandler;
-import pl.wiktorekx.bungechannelapi.IBungeeChannelManager;
-import pl.wiktorekx.bungechannelapi.annotation.MessageReceiver;
-import pl.wiktorekx.bungechannelapi.channel.BMessage;
-import pl.wiktorekx.bungechannelapi.channel.BungeeChannelUtils;
-import pl.wiktorekx.bungechannelapi.channel.IChannelConnection;
+import pl.wiktorekx.bungeechannelapi.annotation.MessageReceiver;
+import pl.wiktorekx.bungeechannelapi.channel.BMessage;
+import pl.wiktorekx.bungeechannelapi.channel.BungeeChannelUtils;
+import pl.wiktorekx.bungeechannelapi.channel.IChannelConnection;
 
 import java.util.HashMap;
 import java.util.Map;

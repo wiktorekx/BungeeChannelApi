@@ -1,9 +1,9 @@
-package pl.wiktorekx.bungechannelapi.bungeecordmessages;
+package pl.wiktorekx.bungeechannelapi.bungeecordmessages;
 
 import lombok.Getter;
 import lombok.Setter;
 import org.jetbrains.annotations.NotNull;
-import pl.wiktorekx.bungechannelapi.channel.BMessage;
+import pl.wiktorekx.bungeechannelapi.channel.BMessage;
 
 import java.util.Objects;
 

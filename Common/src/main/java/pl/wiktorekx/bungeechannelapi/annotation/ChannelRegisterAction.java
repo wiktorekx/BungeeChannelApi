@@ -1,4 +1,4 @@
-package pl.wiktorekx.bungechannelapi.annotation;
+package pl.wiktorekx.bungeechannelapi.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

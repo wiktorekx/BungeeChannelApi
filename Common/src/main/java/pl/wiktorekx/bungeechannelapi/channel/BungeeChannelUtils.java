@@ -1,10 +1,10 @@
-package pl.wiktorekx.bungechannelapi.channel;
+package pl.wiktorekx.bungeechannelapi.channel;
 
 import lombok.SneakyThrows;
 import org.jetbrains.annotations.NotNull;
-import pl.wiktorekx.bungechannelapi.IBungeeChannelManager;
-import pl.wiktorekx.bungechannelapi.annotation.ChannelListener;
-import pl.wiktorekx.bungechannelapi.annotation.ChannelRegisterAction;
+import pl.wiktorekx.bungeechannelapi.IBungeeChannelManager;
+import pl.wiktorekx.bungeechannelapi.annotation.ChannelListener;
+import pl.wiktorekx.bungeechannelapi.annotation.ChannelRegisterAction;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Method;

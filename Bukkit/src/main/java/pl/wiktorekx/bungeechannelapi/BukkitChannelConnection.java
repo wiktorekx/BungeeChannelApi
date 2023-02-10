@@ -5,8 +5,8 @@ import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
 import org.jetbrains.annotations.NotNull;
-import pl.wiktorekx.bungechannelapi.channel.BMessage;
-import pl.wiktorekx.bungechannelapi.channel.IChannelConnection;
+import pl.wiktorekx.bungeechannelapi.channel.BMessage;
+import pl.wiktorekx.bungeechannelapi.channel.IChannelConnection;
 
 import java.util.Objects;
 

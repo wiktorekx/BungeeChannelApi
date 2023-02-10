@@ -6,8 +6,7 @@ import net.md_5.bungee.api.ProxyServer;
 import net.md_5.bungee.api.plugin.Plugin;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
-import pl.wiktorekx.bungechannelapi.IBungeeChannelManager;
-import pl.wiktorekx.bungechannelapi.channel.BungeeChannelUtils;
+import pl.wiktorekx.bungeechannelapi.channel.BungeeChannelUtils;
 
 import java.util.HashMap;
 import java.util.Map;

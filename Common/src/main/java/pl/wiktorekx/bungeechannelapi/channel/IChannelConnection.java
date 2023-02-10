@@ -1,7 +1,7 @@
-package pl.wiktorekx.bungechannelapi.channel;
+package pl.wiktorekx.bungeechannelapi.channel;
 
 import org.jetbrains.annotations.NotNull;
-import pl.wiktorekx.bungechannelapi.bungeecordmessages.BungeeCordMessage;
+import pl.wiktorekx.bungeechannelapi.bungeecordmessages.BungeeCordMessage;
 
 public interface IChannelConnection {
 

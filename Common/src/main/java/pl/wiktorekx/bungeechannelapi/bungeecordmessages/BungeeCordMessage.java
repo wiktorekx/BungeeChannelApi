@@ -1,7 +1,7 @@
-package pl.wiktorekx.bungechannelapi.bungeecordmessages;
+package pl.wiktorekx.bungeechannelapi.bungeecordmessages;
 
 import org.jetbrains.annotations.NotNull;
-import pl.wiktorekx.bungechannelapi.channel.BMessage;
+import pl.wiktorekx.bungeechannelapi.channel.BMessage;
 
 public abstract class BungeeCordMessage {
 
